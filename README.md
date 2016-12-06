@@ -43,7 +43,7 @@ the answer to life,the universe,and everything is 42.<br>
 数据规模与约定：<br>
 字符串长度不超过1024。<br>
 <br>
-#题目3：最长不下降子序列<br>
+#题目3：最长上升子序列<br>
 <br>
 题目描述：<br>
 给出一个数组A，数组中有n个元素，找出其中的最长不下降子序列，使A[m1]\<A[m2]\<...\<A[mk]，其中m1\<m2\<...\<mk。<br>
