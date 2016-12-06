@@ -53,7 +53,7 @@ the answer to life,the universe,and everything is 42.<br>
 第二行，n个用空格隔开的整数<br>
 <br>
 输出描述：<br>
-最长不下降子序列的长度<br>
+最长上升子序列的长度<br>
 <br>
 样例输入：<br>
 5<br>
