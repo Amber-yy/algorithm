@@ -1,7 +1,17 @@
-#题目1：最小公倍数和最大公约数<br>
+#题目1：DOTA<br>
 <br>
 题目描述：<br>
-编写程序，求出任意两个正整数的最小公倍数和最大公约数<br>
+很多童鞋喜欢玩一些lol、dota这类游戏，这类游戏有一个特点，在你不死的情况下连续杀人会有不同称号。
+下面输入一组字符，其中只包含K和D，K代表杀敌，D代表死亡，求他最高称号。
+0/1/2 - You are a Foolish Man
+3 - You are on a Killing Spree 
+4 - You are Dominating 
+5 - You have a Mega-Kill 
+6 - You are Unstoppable
+7 - You are Wicked Sick
+8 - You have a M-m-m-m....Monster Kill 
+9 - You are Godlike 
+10+ - You are Beyond Godlike (Somebody kill him!)<br>
 <br>
 输入描述：<br>
 两个用空格隔开的正整数m n<br><br>
